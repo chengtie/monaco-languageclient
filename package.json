@@ -28,6 +28,7 @@
   "workspaces": [
     "client",
     "example",
+    "exampleTie",
     "examples/browser"
   ]
 }
